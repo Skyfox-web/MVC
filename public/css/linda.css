@@ -1,0 +1,42 @@
+.inptValid{
+    font-size: 12px;
+    color: red;
+    top: -15px;
+    position: relative;
+}
+
+.tooltip2 {
+  position: relative;
+}
+
+.tooltip2 .tooltiptext2 {
+    background-color: #fff;
+    color: #db2828;
+    text-align: center;
+    padding: .5833em .833em;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    transition: opacity 0.3s;
+    font-size: .85714286rem;
+    border: 1px solid #db2828;
+    font-weight: 700;
+}
+
+.tooltip2 .tooltiptext2::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+
+
+/*fin tooktip*//*fin tooktip*//*fin tooktip*/

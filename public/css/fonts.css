@@ -1,0 +1,34 @@
+/*
+|
+| Theme by: skyfox
+| Oscar Infante Torres
+| Linda Rangel Teran
+| Date: 20/03/2019
+| Muebleria Villarreal Caballero
+|
+*/
+
+
+/*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*/
+/*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*/
+/*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*//*Gotham*/
+
+@font-face {
+  font-family: "Gotham-Book";
+  src: url("../fonts/Gotham-Book.otf");
+}
+
+@font-face {
+    font-family: "gotham-medium";
+    src: url("../fonts/Gotham-Medium.otf");
+}
+
+@font-face{
+	font-family: "GothamBookItalic";
+	src:url("../fonts/GothamBookItalic.ttf");
+}
+
+@font-face{
+	font-family: "Gotham-Bold";
+	src:url("../fonts/Gotham-Bold.otf");
+}
